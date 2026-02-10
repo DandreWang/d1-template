@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "952b30ea-5fa6-409e-acd7-a61347c4613e",
+			"database_name": "exa-pool"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
